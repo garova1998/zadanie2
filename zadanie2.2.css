@@ -1,0 +1,30 @@
+.kyb1 .kyb2 {
+    position: relative;
+}
+.kyb1{
+    
+    background-color: blue;
+    width: 52%;
+    height: 350px;
+    
+    
+}
+.kyb2{
+    
+    background-color: blue;
+    width: 52%;
+    height: 350px;
+    float: right;
+    
+}
+.kyb3{
+    
+    background-color: rgb(2, 255, 150);
+    width: 52%;
+    height: 350px;
+    margin-top: -170px;
+    margin-left: 250px;
+    position:absolute;
+    
+    
+}
