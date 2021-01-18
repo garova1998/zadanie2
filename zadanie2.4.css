@@ -1,0 +1,43 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.header
+{display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 10%;
+    border: 4px solid black;
+}
+
+.header:hover
+{
+    background-color: blue;
+}
+.div{
+   width: 90%;
+   height: 400px;
+   background-color: blue;
+   border-color: white red; /* Цвет границы */ 
+    border-style: solid;
+}
+
+.rast{
+   margin-left: 15%;
+   background-color: white;
+}
+.cvet{
+    background-color: white;
+ }
+
+ .footer
+{  
+    width: 100%;
+    height:15%;
+    background-color: rgba(0, 153, 255, 0.3);
+}
+.footer:hover
+{  
+    background-color: rgba(0, 153, 255); ;
+}
